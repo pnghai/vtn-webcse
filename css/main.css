@@ -1,9 +1,28 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+.gsc-control-searchbox-only{border:2px solid #5DB1E2;margin-top:15px;padding:2px;}
+input.gsc-input{border:0!important;}
+.gsc-clear-button{display: none}
+form.gsc-search-box,table.gsc-search-box{margin-bottom: 0!important}
+input.gsc-search-button {
+    border-color: #336699!important;
+    background-color: #EA8686!important;
+}
+input.gsc-search-button:hover {
+    border-color: #336699!important;
+    background-color: #EA8686!important;
+}
+.cse input.gsc-search-button, input.gsc-search-button{
+  border-radius: 0!important;
+  -webkit-border-radius: 0!important;
+  -moz-border-radius: 0!important;
+  font-size: 18px!important;
+  height: 33px!important;
+  color:#fff!important;
+  border: 2px solid  #5DB1E2!important;
+  font-family: Verdana, Geneva, sans-serif!important;
+}
 
 
 
